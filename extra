@@ -4,6 +4,7 @@ Ecma 6
 Ecma 7
 > DataTypes
 > variable
+/////////////////
 > Operations
 > String
 > String literals
@@ -66,3 +67,11 @@ Ecma 7
 > fabonicci
 > factorial
 > palindrome
+
+
+
+var a="123Text456"
+var b="text123456"
+
+Number(a) /// 123
+Number(b) /// NaN
