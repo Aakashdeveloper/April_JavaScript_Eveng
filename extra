@@ -4,7 +4,6 @@ Ecma 6
 Ecma 7
 > DataTypes
 > variable
-/////////////////
 > Operations
 > String
 > String literals
@@ -12,18 +11,21 @@ Ecma 7
 > localstorage
 > sessionStorage
 > cookies
+/////////////////
 > let, const
 > condition
 > if else
 > ternery Operations
 > switch
 > Date
+
 > github
 > regex
+> array
 > loops
+
 > Functions
 > Rest
-> array
 > Es6
     > maps,filter
 > Spread
