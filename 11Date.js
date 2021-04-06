@@ -15,3 +15,6 @@ a.getFullYear()
 
 > day start with 1 as monday and 0 as sunday
 > month 0 as jan and 11 as dec 
+
+var date = new Date();
+date.toLocaleDateString('default', { month: 'long' })
