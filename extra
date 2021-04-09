@@ -26,18 +26,16 @@ Ecma 7
     > maps,filter
 > regex
 > Spread
-/////////////////
 > Clousers
 > Hoisting
-> object
 > JSON
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
-
-
+/////////////////
+> object
 > this 
 > Prototypes
 > Es6
@@ -74,3 +72,9 @@ var b="text123456"
 
 Number(a) /// 123
 Number(b) /// NaN
+
+///////
+> go inside folder
+> npm init -y
+
+> npm i @babel/core @babel/register @babel/preset-env
