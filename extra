@@ -34,24 +34,22 @@ Ecma 7
     > import export
 > package.JSON
 > npm
-/////////////////
-> object
 > this 
+> object
 > Prototypes
 > Es6
     > classes
-
+/////////////////
 > DoM
 > Calc
 > currenyConvertor
 > promis
 > async await
+> screen
+> Geolocation
 
 > Form validation
 > Event
-
-> screen
-> Geolocation
 > Dynamic DropDown
 > Progress bar
 
