@@ -50,7 +50,6 @@ Ecma 7
 > Event
 > Call/Apply
 > screen
-/////////////////
 > Progress bar
 > Baisc Jquery
 > Weather application
@@ -59,6 +58,9 @@ Ecma 7
 > fabonicci
 > factorial
 > palindrome
+/////////////////
+
+
 
 
 
@@ -73,3 +75,6 @@ Number(b) /// NaN
 > npm init -y
 
 > npm i @babel/core @babel/register @babel/preset-env
+
+// 17 may
+https://us02web.zoom.us/j/5588867882?pwd=TEtYR2czVUovV2t5ekFPWHZBdlo0Zz09
